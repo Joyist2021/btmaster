@@ -1,6 +1,8 @@
 # btmaster
 btmaster2.1.1
 
+永久更新地址 http://av98.byethost10.com/?thread-835.htm
+
 -------------BTMaster 2.1.1 BT发布系统 -----------
 
 BTMaster BT发布系统介绍：
