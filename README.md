@@ -1,11 +1,11 @@
 # btmaster
 btmaster2.1.1
 
+-------------BTMaster 2.1.1 BT发布系统 -----------
+
 BTMaster BT发布系统介绍：
 
     BTMaster发布系统是一套基于PHP+MYSQL平台架构的BT发布系统。页面使用DIV+CSS模板设计机制构建，严格遵守XHTML标准，完全兼容各主流浏览器（IE、Firefox、Opera、Chrome等），风格定制简单到仅需一个css文件和数个图片即可。发布系统用户数据可与任何第三方系统实现完美整合，现有系统不必作任何修改。支持HTTP和UDP协议，多Tracker发布，Torrent文件智能纠错。同时提供eMule(电驴)资源发布功能，一网打尽所有P2P资源。页面自动静态缓存，无需人工干涉，具有强大的负载能力，轻松应付大流量访问。
-
-
 
 核心功能介绍：
 1. 程序语言分离，可轻松修改为任意语言版本(英文、繁体中文、韩文等)
@@ -40,7 +40,14 @@ MySQL 4.1或更高版本(推荐使用官方最新稳定版本)
 
 Zend Optimizer 3.0.2或更高版本
 
-btmaster2.1.1大小： | 来源：蓝奏云
-https://wwi.lanzoup.com/iucUa04s6f4d
+btmaster2.1.1大小：3.2 M | 来源：蓝奏云
 https://www.lanzoui.com/i83oi5i
+https://wwi.lanzoup.com/iucUa04s6f4d
+
 已经过安全软件检测无毒，请您放心下载。
+
+-------------BTMaster 2.1.1 BT发布系统 -----------
+
+btmaster2.1.1 
+https://github.com/Joyist2021/btmaster
+https://github.com/80000v/btmaster
